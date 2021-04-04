@@ -7,7 +7,7 @@ from enum import Enum
 import typing
 import sys
 import json
-
+# pokusny koment
 VIEW_URL = "du1_view.qml"
 CITY_LIST_FILE = ".json" # doplnit
 
